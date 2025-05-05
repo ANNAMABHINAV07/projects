@@ -1,0 +1,11 @@
+Project Execution steps:
+
+Step 1: Open project folder in visual studio code 
+
+step 2: Activate virtual environment in new terminal using .\.venv\Scripts\activate
+
+step 3: Run the command python (filename.py)
+
+step 4: Click the link provided as port number in the output
+
+Finally, code will be executed and website will be opened
